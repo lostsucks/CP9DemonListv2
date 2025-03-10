@@ -1,3 +1,4 @@
+# filepath: d:\cp9demon\CP9DemonList\.gitignore
 # IDE files
 .idea/
 .vscode/*
@@ -12,6 +13,7 @@ package-lock.json
 dist/
 build/
 .cache/
++ public/
 
 # Environment files
 .env
