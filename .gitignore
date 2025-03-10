@@ -1,5 +1,33 @@
+# IDE files
 .idea/
 .vscode/*
 !.vscode/settings.json
+!.vscode/extensions.json
 
+# Dependencies
 node_modules/
+package-lock.json
+
+# Build output
+dist/
+build/
+.cache/
+
+# Environment files
+.env
+.env.local
+.env.development
+.env.production
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# Temp files
+*.tmp
+*.temp
