@@ -2,8 +2,6 @@
 
 <div align="center">
 
-![CP9 GDPS Banner](https://via.placeholder.com/800x200?text=CP9+GDPS+Demon+List)
-
 ### The official demon list for CP9GDPS
 
 </div>
