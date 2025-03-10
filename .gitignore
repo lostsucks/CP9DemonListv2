@@ -1,0 +1,9 @@
+.idea/
+.vscode/*
+!.vscode/settings.json
+
+.next
+.env
+dist
+
+node_modules/
