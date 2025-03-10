@@ -27,6 +27,6 @@ Visit our Discord server for information on how to submit levels for ranking.
 
 <div align="center">
 
-**CP9GDPS - Made by lostsucks**
+**CP9GDPS - List made by lostsucks**
 
 </div>
